@@ -1,22 +1,33 @@
+import { Link } from "react-router-dom";
+
 function Navbar() {
   return (
     <nav
       style={{
-        backgroundColor: "#111827",
+        background: "#111827",
         color: "white",
+        padding: "20px",
         display: "flex",
-        justifyContent: "space-between",
-        padding: "20px 50px",
+        justifyContent: "space-around",
       }}
     >
-      <h2>StyleHub</h2>
+      <Link to="/" style={{ color: "white", textDecoration: "none" }}>
+        Home
+      </Link>
 
-      <div style={{ display: "flex", gap: "20px" }}>
-        <span>Home</span>
-        <span>Shop</span>
-        <span>Products</span>
-        <span>Contact</span>
-      </div>
+      <Link
+        to="/products"
+        style={{ color: "white", textDecoration: "none" }}
+      >
+        Products
+      </Link>
+
+      <Link
+        to="/contact"
+        style={{ color: "white", textDecoration: "none" }}
+      >
+        Contact
+      </Link>
     </nav>
   );
 }
