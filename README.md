@@ -47,5 +47,4 @@ A responsive e-commerce website built with React + Vite.
 ### Contact
 
 
-![Contact](<img width="1120" height="597" alt="contacts png" src="https://github.com/user-attachments/assets/40f9d96e-f063-4fd9-a643-215fcc57ef6d" />
-)
+![Contact alt](https://github.com/vinay-jaiswal19/ecom-website/blob/f3c77b0e0b9be47fbfff0527d1c8f74579d7d4db/contacts.jpg.png)
