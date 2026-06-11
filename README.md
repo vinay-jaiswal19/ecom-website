@@ -7,8 +7,7 @@ A responsive e-commerce website built with React + Vite.
 ### Home
 
 
-![Home](<img width="563" height="592" alt="home png" src="https://github.com/user-attachments/assets/1dec7dbd-f462-4076-845a-9a6e4f41e3b6" />
-)
+![Home alt](https://github.com/vinay-jaiswal19/ecom-website/blob/f7eb8c9e31a359a1a73b2fb82dd6cbf4d2d5fc7b/home.jpg.png)
 
 
 
