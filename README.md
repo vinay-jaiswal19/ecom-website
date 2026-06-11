@@ -33,8 +33,7 @@ A responsive e-commerce website built with React + Vite.
 
 
 
-![Products2](<img width="1121" height="607" alt="products2png" src="https://github.com/user-attachments/assets/e85153fc-dbb7-46a6-928b-fcb96c7ff85f" />
-)
+![Products2 alt](https://github.com/vinay-jaiswal19/ecom-website/blob/2f9540c38bb17eb7c17d12cfbc8beefd587de813/products2.jpg.png)
 
 
 
