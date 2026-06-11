@@ -21,7 +21,7 @@ A responsive e-commerce website built with React + Vite.
 ### Categories
 
 
-![Categories](<img width="1122" height="270" alt="category png" src="https://github.com/user-attachments/assets/16a6356f-dd74-4f39-936a-f148114ca429" />)
+![Categories alt](https://github.com/vinay-jaiswal19/ecom-website/blob/7d7d80ce99a7f3649697bee3bba3216f5208d44a/category.jpg.png)
 
 
 
