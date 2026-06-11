@@ -15,7 +15,7 @@ A responsive e-commerce website built with React + Vite.
 ### Navbar
 
 
-![Navbar](<img width="1149" height="418" alt="navbar png" src="https://github.com/user-attachments/assets/b9316f07-ba7c-4d6e-bea5-72182e3e04bf" />)
+![Navbar alt](https://github.com/vinay-jaiswal19/ecom-website/blob/1f39fbacd4d6fd8698ba876f12ed40fea91d38f7/navbar.jpg.png)
 
 
 
