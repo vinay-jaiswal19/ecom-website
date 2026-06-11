@@ -40,8 +40,7 @@ A responsive e-commerce website built with React + Vite.
 ### Testimonials
 
 
-![Testimonials](<img width="1125" height="386" alt="testimonial png" src="https://github.com/user-attachments/assets/d758548c-454b-42ac-a6e2-a143f8d66c4b" />
-)
+![Testimonials alt](https://github.com/vinay-jaiswal19/ecom-website/blob/73975a1092db9577dacdcad85ee8e2ce681679f9/testimonial.jpg.png)
 
 
 
